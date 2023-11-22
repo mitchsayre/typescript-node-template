@@ -1,4 +1,4 @@
-# TypeScript Project Template For Node.js
+# TypeScript Project Template for Node.js
 A TypeScript project template for Node.js targeting ES2022. Includes support for debugging in VSCode.
 
 ## Getting started
